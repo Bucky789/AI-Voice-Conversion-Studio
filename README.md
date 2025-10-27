@@ -182,7 +182,7 @@ git push origin main
 **Manthan Sumbhe**  
 🎓 Master’s in Computer Science — Boston, USA  
 💼 Full Stack Developer | AI/ML Enthusiast  
-🌐 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+🌐 www.linkedin.com/in/manthan-sumbhe
 
 ---
 
