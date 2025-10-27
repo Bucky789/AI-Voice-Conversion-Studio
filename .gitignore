@@ -1,0 +1,43 @@
+@"
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+venv*/
+.env
+*.log
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio / ML / Models - DO NOT commit large files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.pth
+*.ckpt
+*.index
+*.npy
+models/
+pretrained_models/
+backend/voices/
+uploads/
+converted/
+separated/
+"@ > .gitignore
