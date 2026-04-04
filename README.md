@@ -114,7 +114,7 @@ cd AI-Voice-Conversion-Studio
 
 3. Start the React app:
    ```bash
-   npm run dev
+   npm start
    ```
 
 4. Open the local URL (e.g., `http://localhost:5173`) to use the app.
